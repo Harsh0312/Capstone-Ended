@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnH0Wwbi9T+Jyki34rYA7xlWLgp/yxqTkDlccBT12652ueZJXT1ACN3ZfnPFo62ZOVseqnuqn1rW5o7g6t5y3w==",
+  "success": true,
+  "projectFilePath": "D:\\PractiseReact\\ModernHealthcare\\ModernHealthcare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avinash Singh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Avinash Singh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Avinash Singh\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
